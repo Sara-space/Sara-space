@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍🔬 Sara Martínez García
 
-<!--
-**Sara-space/Sara-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bienvenida a mi perfil de GitHub 🚀
 
-Here are some ideas to get you started:
+Soy **Sara Martínez García**, Ingeniera Física por la **Universidad Autónoma Metropolitana - Azcapotzalco (UAM-Azc)**. Actualmente, realizo mi **tesis de maestría** en **cristalización de materiales amorfos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Experiencia e Investigación
+- Servicio social en el área de **Física Teórica y Materia Condensada** en la UAM-Azc.
+- Investigación en el **diseño de cristales fonónicos**.
+- Dirección de una **tesis de Licenciatura**.
+- Ayudante en cursos de **Matemáticas**.
+- Miembro del grupo **Ondas, Materiales y Metamateriales**.
+
+## 📌 Áreas de Interés
+- Física del estado sólido.
+- Materiales nanoestructurados y amorfos.
+- Propiedades ópticas y mecánicas de materiales.
+- Cristales fonónicos y metamateriales.
+
+## 📫 Contacto
+- 📧 [Tu correo o LinkedIn aquí]
+- 🏫 UAM-Azc
+
+✨ **Explora mis proyectos y colaboremos en ciencia e innovación.** ✨
