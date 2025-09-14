@@ -2,7 +2,7 @@
 
 ### Bienvenida a mi perfil de GitHub 🚀
 
-Soy **Sara**, Ingeniera Física por la **Universidad Autónoma Metropolitana - Azcapotzalco (UAM-Azc)**. Actualmente, realizo mi **tesis de maestría** en **cristalización de materiales amorfos**.
+Soy **Sara**, Ingeniera Física por la **Universidad Autónoma Metropolitana - Azcapotzalco (UAM-Azc)**. Actualmente, realizo mi **tesis de maestría** en **síntesis de carburo de silicio (SiC)**.
 
 ## 🔬 Experiencia e Investigación
 - Servicio social en el área de **Física Teórica y Materia Condensada** en la UAM-Azc.
